@@ -16,7 +16,6 @@ body{
 }
 
 nav{
-    /* background-color: red; */
     display: flex;
     flex-direction: row;  
     justify-content: space-between;
@@ -24,7 +23,6 @@ nav{
 }
 
 .nav-items{
-    /* background-color: yellow; */
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -54,15 +52,12 @@ nav .fa-bars {
 /* intro-section */
 
 .intro-section{
-    /* background-color: bisque; */
     display: flex;
     flex-direction: row;
 }
 
 /* left-section */
 .left-section{
-    /* background-color: cyan; */
-    /* flex: 1; */
     width: 60%;
     padding-top: 4rem;
 }
@@ -79,12 +74,10 @@ nav .fa-bars {
 }
 
 img[alt = "circles"]{
-    /* background-color: yellow; */
     width: 3rem;
 }
 
 .sub-headlines{
-    /* background-color: aquamarine; */
     padding: 2rem 5rem;
 }
 
@@ -106,7 +99,6 @@ img[alt = "circles"]{
 }
 
 .text{
-    /* background-color: aqua; */
     width: 90%;
     color: #5b5959;
     font-family: 'Poppins';
@@ -121,7 +113,6 @@ img[alt = "circles"]{
 
 /* right-section */
 .right-section{
-    /* background-color: yellow; */
     width: 40%;
     display: flex;
     flex-direction: column;
@@ -131,7 +122,6 @@ img[alt = "circles"]{
 
 .headphone-div{
     position: relative;
-    /* background-color: brown; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -150,7 +140,6 @@ img[alt='headphone']{
 }
 
 .discount-content{
-    /* background-color: blueviolet; */
     position: absolute;
     left: 2rem;
     bottom: 6rem;
@@ -168,7 +157,6 @@ img[alt='headphone']{
 }
 
 .dots{
-    /* background-color: chartreuse; */
     display: flex;
     flex-direction: row;
     justify-content: space-around;
